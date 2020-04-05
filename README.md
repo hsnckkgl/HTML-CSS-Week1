@@ -1,2 +1,3 @@
 # socialhackersacademy-week1
- cv
+CV Template
+# https://hsnckkgl.github.io/HTML-CSS-Week1/
